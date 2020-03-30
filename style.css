@@ -1,0 +1,25 @@
+h1 {
+    font-family: Verdana, sans-serif;
+    display: inline;
+}
+#status {
+    color: red;
+}
+
+td {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+}
+
+.vert {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.hori {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
